@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\TheSimpleCalculator\bin\Debug\TheSimpleCalculator.exe.config
+C:\Users\HP\source\repos\TheSimpleCalculator\bin\Debug\TheSimpleCalculator.exe
+C:\Users\HP\source\repos\TheSimpleCalculator\bin\Debug\TheSimpleCalculator.pdb
+C:\Users\HP\source\repos\TheSimpleCalculator\obj\Debug\TheSimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TheSimpleCalculator\obj\Debug\TheSimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TheSimpleCalculator\obj\Debug\TheSimpleCalculator.exe
+C:\Users\HP\source\repos\TheSimpleCalculator\obj\Debug\TheSimpleCalculator.pdb
